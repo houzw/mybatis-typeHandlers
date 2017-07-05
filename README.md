@@ -1,7 +1,9 @@
 # mybatis-typeHandlers
-some mybatis TypeHandler
+>http://www.mybatis.org/mybatis-3/zh/configuration.html#typeHandlers
 
-## typeHandlers configuration in mybatis.xml
+some mybatis TypeHandlers
+
+## typeHandlers' configuration in mybatis.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
