@@ -17,6 +17,7 @@ import java.sql.SQLException;
  * @author houzhiwei
  * @date 2017/2/14 14:15
  */
+@MappedTypes({Inet6Address.class, Inet4Address.class})
 public class InetTypeHandler extends BaseTypeHandler<InetAddress>
 {
     @Override
